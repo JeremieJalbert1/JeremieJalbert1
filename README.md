@@ -1,4 +1,7 @@
 ### Hi there 👋
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=JeremieJalbert1
 
 <!--
 **JeremieJalbert1/JeremieJalbert1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
